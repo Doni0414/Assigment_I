@@ -1,4 +1,4 @@
-module github.com/Doni0414/Assignment_I
+module github.com/Doni0414/Assigment_I
 
 go 1.21.6
 
