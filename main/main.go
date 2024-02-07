@@ -1,9 +1,8 @@
 package main
 
 import (
-	"Assignment_I/structs"
-	"Assignment_I/utils"
 	"fmt"
+	"mymodule/utils"
 	"strconv"
 )
 
@@ -21,7 +20,7 @@ func main() {
 	// Control Flow:
 	// Write a function that takes an integer parameter and prints whether it's even or odd.
 	// printEvenOrOdd(5)
-	utils.PrintEvenOrOdd(5)
+	utils.printEvenOrOdd(5)
 	// Use a loop to print numbers from 1 to 5.
 	utils.PrintRange(1, 5)
 	// Arrays and Slices:
